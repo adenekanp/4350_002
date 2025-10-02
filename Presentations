@@ -9,7 +9,8 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 Lifecycle Models and Process
 
-1.	Kanban (Software Development)	- Nicholas Crump
+1.	Kanban (Software Development)	- Nicholas Crump: https://www.youtube.com/watch?v=lZK1sRZKOWs
+                                    JL Graham
 
 2.	Crystal (Software Development)	- 
 
@@ -20,9 +21,9 @@ Lifecycle Models and Process
 4.b. 	CI/CD Pipeline -  Samuel Adenekan
 
 Project Management and Professional Practice
-5.	Risk Management -   
+5.	Risk Management - Krissy Baker
 
-6.	Software Complexity Metrics	- 
+6.	Software Complexity Metrics	- Derek Depew
 
 7.	Formal Methods			- 
 
@@ -41,7 +42,7 @@ Software Architectures and Tools
 
 13.	Platform as a Service	- 
 
-14.	Docker  -  
+14.	Docker  -  Derek Depew
 
 15.	Ansible - 
 
@@ -49,14 +50,14 @@ Software Architectures and Tools
 
 17.	Splunk (for DevOps) -  
 
-18.	Selenium -  
+18.	Selenium -  Krissy Baker
 
 19.	AWS or Azure -  
 
 Development Paradigms and Testing
 20.	Test-Driven Development -  
 
-21.	Behavior Driven Development -  
+21.	Behavior Driven Development -  Seth Emerine
 
 22.	Feature Driven Development -  
 
@@ -68,6 +69,6 @@ AI in SE
 
 25. AI for code creation (where the AI writes all the code) - Joe Neglia
                  
-26. AI for code analysis -  
+26. AI for code analysis -  Nic Ravnborg
 
-The Pheonix Project - Blaine Anderson
+The Pheonix Project - Blaine Anderson / Jackson Kraus
